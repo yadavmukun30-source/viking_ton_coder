@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/yadavmukun30-source/viking_ton_coder/tree/master/0069-sqrtx) |
 | [0258-add-digits](https://github.com/yadavmukun30-source/viking_ton_coder/tree/master/0258-add-digits) |
 ## Simulation
 |  |
@@ -34,4 +35,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/yadavmukun30-source/viking_ton_coder/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/yadavmukun30-source/viking_ton_coder/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/yadavmukun30-source/viking_ton_coder/tree/master/0069-sqrtx) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/yadavmukun30-source/viking_ton_coder/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
