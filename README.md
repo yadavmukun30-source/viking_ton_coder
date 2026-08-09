@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/yadavmukun30-source/viking_ton_coder/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/yadavmukun30-source/viking_ton_coder/tree/master/0035-search-insert-position) |
 | [0217-contains-duplicate](https://github.com/yadavmukun30-source/viking_ton_coder/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
@@ -32,4 +33,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/yadavmukun30-source/viking_ton_coder/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/yadavmukun30-source/viking_ton_coder/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
